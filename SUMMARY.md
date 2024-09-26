@@ -3,9 +3,9 @@
 
 ## Welcome
 
-* [README](README.md)
-  * [sub](sub.md)
-  * [sub2](sub2.md)
+* [quick start](README.md)
+  * [sub page1](sub.md)
+  * [sub page2](sub2.md)
 
 ## Transformation
 
